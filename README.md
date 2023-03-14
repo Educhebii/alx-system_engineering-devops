@@ -1,1 +1,1 @@
-Basics into ahell
+shell basics
